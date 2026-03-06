@@ -9,7 +9,7 @@
 
 ## Sobre mí
 
-Profesional en Ciencia de Datos e Ingeniera en Petróleos, con experiencia como docente de Matemáticas en Educación Básica Superior y Bachillerato, con base en Ecuador 🇪🇨.
+Profesional en Ciencia de Datos e Ingeniera en Petróleos, con experiencia como docente de Matemáticas en Educación Básica Superior y Bachillerato, con base en Ecuador.
 
 La formación en ingeniería y ciencia de datos ha permitido desarrollar un sólido pensamiento analítico, así como habilidades para la resolución de problemas y la interpretación de información. Desarrollo de proyectos enfocados en el análisis y exploración de datos para identificar patrones, generar insights y apoyar la toma de decisiones basadas en datos.
 
@@ -69,6 +69,15 @@ Aquí se presentan algunos proyectos de ciencia de datos y machine learning dond
 
 | Proyecto | Descripción | Tecnologías | Ver Proyecto |
 |---------|-------------|-------------|--------------|
-| **Predicción de Cancelación de Clientes** | Modelo de clasificación para identificar clientes con riesgo de cancelación en una empresa de telefonía. El modelo alcanzó **AUC-ROC de 0.83** y **Recall de 0.80**, permitiendo detectar clientes con alta probabilidad de abandono. | ![Python](Project_Video_Game_Market_Success_Predictor) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | 📂 [Open Repo](LINK_REPO_CHURN) |
-| **Predicción de Recuperación de Oro** | Análisis y modelado de datos industriales del proceso minero para estimar la recuperación de oro mediante modelos de machine learning. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | 📂 [Open Repo](LINK_REPO_ORO) |
-| **Análisis de Ventas de Videojuegos** | Análisis exploratorio de datos para identificar patrones de ventas por región, plataforma y género mediante visualización y estadística descriptiva. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat) | 📂 [Open Repo](LINK_REPO_VIDEOJUEGOS) |
+| **Predicción de Cancelación de Clientes** | Modelo de clasificación para identificar clientes con riesgo de cancelación en una empresa de telefonía. El modelo alcanzó **AUC-ROC de 0.83** y **Recall de 0.80**, permitiendo detectar clientes con alta probabilidad de abandono. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | [Ver proyecto](https://github.com/Jess-24-Orozco/Churn_Prediction_Project_Interconnect) |
+| **Predicción de Recuperación de Oro** | Análisis y modelado de datos industriales del proceso minero para estimar la recuperación de oro mediante modelos de machine learning. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | [Ver proyecto](https://github.com/Jess-24-Orozco/Project_Gold_Recovery_Prediction) |
+| **Análisis de Ventas de Videojuegos** | Análisis exploratorio de datos para identificar patrones de ventas por región, plataforma y género mediante visualización y estadística descriptiva. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat) | [Ver proyecto](https://github.com/Jess-24-Orozco/Project_Video_Game_Market_Success_Predictor) |
+
+
+## Contacto
+
+[![Teléfono](https://img.shields.io/badge/Teléfono-0958749974-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+593958749974)
+
+[![Correo](https://img.shields.io/badge/Email-jessicamireya1993%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jessicamireya1993@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jessica%20Orozco-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-orozco-itacuar-ciencia-de-datos)
