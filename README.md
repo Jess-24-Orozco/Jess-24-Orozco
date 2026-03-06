@@ -63,6 +63,19 @@ La formación en ingeniería y ciencia de datos ha permitido desarrollar un sól
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
+---
+## Habilidades
+
+- Análisis de Datos  
+- Exploratory Data Analysis (EDA)  
+- Limpieza y Preparación de Datos  
+- Machine Learning  
+- Visualización de Datos  
+- Modelado Predictivo  
+- Análisis Estadístico  
+- Interpretación de resultados para toma de decisiones
+
+---
 ## Portafolio de Ciencia de Datos
 
 Aquí se presentan algunos proyectos de ciencia de datos y machine learning donde aplico análisis de datos, modelado predictivo y visualización para apoyar la toma de decisiones basada en datos.
@@ -73,11 +86,11 @@ Aquí se presentan algunos proyectos de ciencia de datos y machine learning dond
 | **Predicción de Recuperación de Oro** | Análisis y modelado de datos industriales del proceso minero para estimar la recuperación de oro mediante modelos de machine learning. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![ScikitLearn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white) | [Ver proyecto](https://github.com/Jess-24-Orozco/Project_Gold_Recovery_Prediction) |
 | **Análisis de Ventas de Videojuegos** | Análisis exploratorio de datos para identificar patrones de ventas por región, plataforma y género mediante visualización y estadística descriptiva. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat) | [Ver proyecto](https://github.com/Jess-24-Orozco/Project_Video_Game_Market_Success_Predictor) |
 
-
+---
 ## Contacto
 
-[![Teléfono](https://img.shields.io/badge/Teléfono-0958749974-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+593958749974)
+[![Teléfono](https://img.shields.io/badge/Teléfono-0958749974-28A745?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+593958749974)
 
-[![Correo](https://img.shields.io/badge/Email-jessicamireya1993%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jessicamireya1993@gmail.com)
+[![Correo](https://img.shields.io/badge/Correo-jessicamireya1993%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jessicamireya1993@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jessica%20Orozco-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-orozco-itacuar-ciencia-de-datos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jessica%20Orozco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-orozco-itacuar-ciencia-de-datos)
